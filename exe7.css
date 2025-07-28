@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    background-color: antiquewhite;
+    height: 90px;
+    justify-content: space-between;
+    display: flex;
+}
+img{
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.box{
+    height: 30px;
+    width: 50px;
+    padding: 9px;
+    margin: 10px;
+    list-style: none;
+}
+.boxes{
+    display: flex;
+    gap: 10px;
+}
+.item{
+    width: 55px;
+    height: 55px;
+    border: 2px solid black;
+    padding: 2px;
+    margin: 2px;
+}
+.pop{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin: 10px;
+}
+.text{
+    font-size: 10px;
+}
