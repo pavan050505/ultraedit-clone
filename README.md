@@ -1,22 +1,23 @@
 # UltraEdit Clone
 
-A simple frontend clone of the UltraEdit download page using **HTML** and **CSS**.
+🚀 A simple frontend clone of the UltraEdit download page using **HTML** and **CSS**.
 
-## 🔥 Features
+## 📸 Screenshot
 
-- Header section with navigation
-- Language cards for 32-bit and 64-bit downloads
-- Responsive grid-style layout
-
-## 🖼️ Screenshot
-
-![Screenshot](Screenshot%202025-07-28%20184542.png)
+![UltraEdit Clone Preview](clone.png)
 
 ## 📁 Files Included
 
-- `exe7.html` – Main HTML structure
-- `exe7.css` – Styling using Flexbox & Grid
+- `exe7.html` — Structure
+- `exe7.css` — Stylesheet
+- `clone.png` — Screenshot
 
 ---
 
-> Built by [Pavan Sanjay Bhosle](https://github.com/pavan050505)
+### ✅ Live Preview
+
+*You can run the HTML file directly in your browser to see the output.*
+
+---
+
+Made with ❤️ by [Pavan Bhosle](https://github.com/pavan050505)
